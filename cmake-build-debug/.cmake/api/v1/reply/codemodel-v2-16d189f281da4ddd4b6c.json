@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rtos_3_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rtos_3_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtos_3_c-Debug-ac15e4c16fd8e21077df.json",
+					"name" : "rtos_3_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/opal/Library/CloudStorage/OneDrive-PolitechnikaWroclawska/Semestr 6/RTOS/Project/rtos_3_c/cmake-build-debug",
+		"source" : "/Users/opal/Library/CloudStorage/OneDrive-PolitechnikaWroclawska/Semestr 6/RTOS/Project/rtos_3_c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

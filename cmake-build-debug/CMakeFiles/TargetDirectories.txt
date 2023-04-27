@@ -1,0 +1,3 @@
+/Users/opal/Library/CloudStorage/OneDrive-PolitechnikaWroclawska/Semestr 6/RTOS/Project/rtos_3_c/cmake-build-debug/CMakeFiles/rtos_3_c.dir
+/Users/opal/Library/CloudStorage/OneDrive-PolitechnikaWroclawska/Semestr 6/RTOS/Project/rtos_3_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/opal/Library/CloudStorage/OneDrive-PolitechnikaWroclawska/Semestr 6/RTOS/Project/rtos_3_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
